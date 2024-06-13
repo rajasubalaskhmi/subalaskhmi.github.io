@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <body style="background-color:rgb(241, 95, 207);">
+
+    <head>
+        <title>aj college</title>
+                  
+      <br>
+
+     
+    </head>
+    <body>
+        <fieldset style="text-align: center;">
+            <style>
+            fieldset{
+                background-color: rgb(126, 164, 248);
+                float: center;
+                height:;30Spx
+                width: 15CS%;
+                margin:10px;
+            }
+        </style>
+
+        </h2>
+        <fieldset>
+
+            <h1>Registration Form</h1>
+            
+            <input type = "text"placeholder="your name">
+            <form>
+
+                <br>
+                <input type = "text"placeholder="father name">
+                </pre>
+                <br>                
+                <br>
+                <input type = "text"placeholder="mother name">
+                <pre</pre>
+
+                <br>
+
+                <br>
+                <label><b>birth date</b></label><br><input type="date">
+
+                
+                <br>
+                <br>
+                <br><label><b>Select your course</b></label>
+                <select>
+                    <option value="1.">BA TAMIL</option>
+                    <option value="2">BA ENGLISH</option>
+                    <option value="3">SCA</option>
+                    <option value="3">SC</option>
+
+                </select>
+   
+                <label><b>Gender</b></label>
+                <br>
+                <br>
+                <input type="radio" name="gen">Male
+                <input type="radio" name="gen">Female
+                <br>
+                <br>
+
+                <input type="submit"value"submit">
